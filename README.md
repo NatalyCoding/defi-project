@@ -1,1 +1,1 @@
-# defi-project
+# DeFi Project
